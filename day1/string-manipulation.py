@@ -1,0 +1,5 @@
+print("She said 'Hello' and then left.")
+print('She said : "Hello" and then left.')
+print("She said : \"Hello\" and then left.")
+print("Hello world \nHello world!")
+print("Hello"+" "+"Angela")
